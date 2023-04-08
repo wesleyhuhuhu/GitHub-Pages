@@ -4,6 +4,9 @@
 
 **This page is _sooo_ amazing**
 
+I'm a third year computer engineering major, and I plan to join the industry
+as a software engineer when I graduate. My hobbies are driving, music, and eating.
+
 >Life is like a d*ck. Women make it hard
 
 The command `git gf` is unavailable
