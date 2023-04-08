@@ -25,4 +25,4 @@ I went here for Spring break
 - [X] Fail in life
 - [ ] Become rich
 
-Go back to the top [here](# Main Header: Text)
+Go back to the top [here](#Main-Header-Text)
