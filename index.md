@@ -18,10 +18,11 @@ I found this random website [External Link](https://cat-bounce.com/).
 
 [Relative Link](rel_link.md)
 
+I went here for Spring break
 ![I went here for Spring break](Empire.jpg)
 
 - [ ] Pass this class
 - [X] Fail in life
 - [ ] Become rich
 
-Go back to the top [here](#Main Header: Text)
+Go back to the top [here](# Main Header: Text)
